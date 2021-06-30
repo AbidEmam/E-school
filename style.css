@@ -1,0 +1,91 @@
+.logo{
+   width: 198.07px;
+   height: 59px;
+   top: 30px;
+}
+.bg-color{
+    background-color: #F0FFF0;
+}
+.anyscheudle{
+    color: #21B573;
+}
+.frontpage{
+  
+    background-color:#F0FFF0 ;
+}
+.fronttextandimg{
+    margin: 100px;
+}
+.buttonjoin{
+    background-color: #21B573;
+    padding: 12px 36px;
+    border: none;
+    border-radius: 33px;
+    color: white;
+}
+#buttonjoinsign{
+    background-color: #21B573;
+    padding: 12px 26px;
+    border-radius: 33px;
+    color: white;
+    font-size: 16px;
+}
+.card-img-top{
+    padding: 90px 90px 20px 90px;
+}
+#cardborder{
+  border: none;
+  background-color: 
+  #F8FFFB;
+}
+.onlinecourses{
+    margin-top: 80px;
+}
+#onlinecourseimage{
+  padding: 20px;
+    width: 331px;
+    height: 234px;
+}
+.card-footerallcalendar{
+    width: 18px;
+    height: 20px;
+}
+.card-footerallpeople{
+width: 18px;
+height: 18px;
+}
+.peopleitem{
+    margin-left: 30px;
+    padding-left: 20px;
+}
+.cardbutn{
+    text-decoration: none;
+}
+.testimonialh1{
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.man{
+  
+    width: 120px;
+    height: 120px;
+}
+.testi{
+    margin-bottom: 100px;
+}
+.lastpage{
+    background-color: black;
+    color: 
+    #CDCDCD;
+}
+.bultremv{
+    font-size: small;
+    list-style: none;
+}
+.bultremv li{
+    margin-bottom: 10px;
+}
+.lastpage p{
+    margin-top: 50px;
+}
